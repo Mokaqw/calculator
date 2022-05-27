@@ -1,0 +1,19 @@
+.Input-container{
+    height: 10em;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+  
+    padding: 16px;
+  }
+
+  .result-box {
+    flex: 1;
+    font-size: 24px;
+  }
+  
+  .number-box {
+    flex: 1;
+    font-size: 18px;
+  }
